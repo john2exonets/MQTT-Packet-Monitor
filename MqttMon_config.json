@@ -1,0 +1,4 @@
+{
+    "mqtt_broker": "http://mqtt.my.io",
+    "debug": 0
+}
